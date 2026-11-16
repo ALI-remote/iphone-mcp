@@ -1,0 +1,20 @@
+{
+  "name": "iphone",
+  "version": "1.0.0",
+  "description": "Control real iPhones from Claude: see the screen, tap, swipe and type on phones hosted by ALI Remote.",
+  "author": {
+    "name": "ALI Remote",
+    "url": "https://aliremote.com"
+  },
+  "homepage": "https://aliremote.com",
+  "privacyPolicyUrl": "https://aliremote.com/legal/privacy",
+  "repository": "https://github.com/ALI-remote/iphone-mcp",
+  "license": "MIT",
+  "keywords": [
+    "iphone",
+    "ios",
+    "mcp",
+    "remote-control",
+    "mobile-automation"
+  ]
+}

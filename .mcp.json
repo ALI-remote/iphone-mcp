@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ali": {
+      "type": "http",
+      "url": "https://api.aliremote.com/api/mcp"
+    }
+  }
+}

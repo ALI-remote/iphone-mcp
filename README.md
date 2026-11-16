@@ -1,5 +1,7 @@
 # iPhone MCP
 
+Let an agent take control of your iPhones, from A to Z. It doesn't stop at tapping a screen. It runs the whole phone for you: it checks which phones are online, opens and closes apps, taps, swipes and types, sends photos and videos to a phone, builds and runs automations across your phones, and tells you who used which phone and for how long. You ask in plain words, it does the work.
+
 Control real iPhones from Claude, ChatGPT, VS Code and Codex. Your AI assistant can see an iPhone's screen, tap, swipe, type, press buttons and open apps, on real iPhones hosted by [ALI Remote](https://aliremote.com).
 
 No Mac, no Xcode, no USB cable and no simulator. One URL connects your assistant to the official ALI Remote MCP server:
